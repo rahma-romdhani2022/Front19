@@ -1,0 +1,10 @@
+.carousel .carousel-item {
+  width: 340px !important;
+  padding: 20px;
+}
+
+.card{ 
+  border-radius: 8px; 
+  position: relative !important;
+  right: 20px !important;
+}
